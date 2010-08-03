@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>taskName</key>
+	<string>VAS</string>
+	<key>shouldRunOnLaunch</key>
+	<false/>
+	<key>dataDirectory</key>
+	<string>/Volumes/EXTERNAL/kellylab/DATA</string>
+	<key>setupFileName</key>
+	<string>current.info</string>
+	<key>crashRecoveryFileName</key>
+	<string>VAS.cr</string>
+	<key>dataFileName</key>
+	<string>VAS.data</string>
+	<key>questionFile</key>
+	<string>/Volumes/EXTERNAL/kellylab/QUESTIONS/SampleQuestionSet.csv</string>
+	<key>vasQuestionAccessMethod</key>
+	<integer>0</integer>
+	<key>vasNumberOfIntendedQuestions</key>
+	<integer>0</integer>
+	<key>vasNumberOfTickMarks</key>
+	<integer>2</integer>
+	<key>vasLeftPrompt</key>
+	<string>Not Very</string>
+	<key>vasMidPrompt</key>
+	<string></string>
+	<key>vasRightPrompt</key>
+	<string>Extremely</string>
+</dict>
+</plist>
