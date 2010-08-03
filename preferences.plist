@@ -7,7 +7,7 @@
 	<key>shouldRunOnLaunch</key>
 	<false/>
 	<key>dataDirectory</key>
-	<string>/Volumes/EXTERNAL/kellylab/DATA</string>
+	<string></string>
 	<key>setupFileName</key>
 	<string>current.info</string>
 	<key>crashRecoveryFileName</key>
@@ -15,7 +15,7 @@
 	<key>dataFileName</key>
 	<string>VAS.data</string>
 	<key>questionFile</key>
-	<string>/Volumes/EXTERNAL/kellylab/QUESTIONS/SampleQuestionSet.csv</string>
+	<string></string>
 	<key>vasQuestionAccessMethod</key>
 	<integer>0</integer>
 	<key>vasNumberOfIntendedQuestions</key>
